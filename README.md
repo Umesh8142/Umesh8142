@@ -11,7 +11,6 @@ AI-focused full-stack developer who enjoys turning messy documents into structur
 `Python` | `FastAPI` | `React` | `PostgreSQL` | `HTML/CSS` | `JavaScript` | `PyMuPDF` | `BeautifulSoup` | `LLM Ops` | `GitHub Actions`
 
 ## Featured Projects
-- [**Pdf_to_html**](https://github.com/Umesh8142/Pdf_to_html): AI-assisted PDF to semantic HTML pipeline with live previews, grammar checks, MathML editing, and versioned diffs.
 - [**Blinkit_Clone**](https://github.com/Umesh8142/Blinkit_Clone): Responsive grocery storefront clone showcasing reusable UI sections and checkout flows.
 - [**Spotify_Clone**](https://github.com/Umesh8142/Spotify_Clone): Static Spotify landing page replica optimized for quick loading and clear component structure.
 - [**WORD_DIC**](https://github.com/Umesh8142/WORD_DIC): Java-based word dictionary app with search, CRUD operations, and clean Swing UI foundations.
